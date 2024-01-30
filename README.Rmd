@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-# ilsa
+# edu4050
 
 - R library to share ILSA data examples, developed for edu4050 course work.
 
