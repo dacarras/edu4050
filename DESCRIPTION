@@ -1,0 +1,10 @@
+Package: edu4050
+Type: Package
+Title: R library for edu405 course
+Version: 0.1.0
+Author: dacarras
+Maintainer: The package maintainer <dacarras@uc.clt>
+Description: The present library includes copies of large scale assessment studies, to make it easier to run workshop and homeworks.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
